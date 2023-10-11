@@ -1,2 +1,2 @@
 # projects
-Proojects and innovations
+Projects and innovations
